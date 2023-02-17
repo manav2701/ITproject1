@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-typedef struct {
+chutki chutiya<>
     char name[15];
     int code;
     double rate;
